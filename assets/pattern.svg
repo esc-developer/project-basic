@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <defs><path id="pb" fill-rule="evenodd" d="M352 175H806V231H862V287H910V415H860V481H806V535H413V762H357V817H198V701H246V342H297V231H352Z M465 294H723V426H465Z M547 577H934V627H989V678H1045V792H990V844H940V871H990V915H1043V1034H989V1076H934V1115H495V1072H441V981H494V627H547Z M640 683H879V787H640Z M640 894H879V1003H640Z"/></defs>
+  <g fill="#fff" fill-opacity=".1">
+    <use href="#pb" transform="translate(28 22) rotate(-15) scale(.0628) translate(-190 -167)"/>
+    <use href="#pb" transform="translate(128 122) rotate(-15) scale(.0628) translate(-190 -167)"/>
+  </g>
+</svg>
